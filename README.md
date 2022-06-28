@@ -1,2 +1,2 @@
 # google-data-analytics-capstone-project
-A capstone project of Google data analytics specialization based on data analysis process. It covers data analysis &amp; visualization to find important insights that a wellness company can use for a better marketing strategy.
+This repository contains the project I made during Google Data Analytics Specialization in R programming language. It covers data analysis & data visualization to find important insights that a wellness company can use for a better marketing strategy.
